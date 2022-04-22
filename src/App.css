@@ -25,7 +25,7 @@ max-width: 20%;
 margin: 2%;
 max-width: fit-content;
 max-width: 40%;
-max-height: 50%;
+max-height: 40%;
 
 }
 .output-text {
@@ -41,10 +41,10 @@ max-height: 50%;
 .input-text {
   border: 2px solid #ce97b0;
 margin: 2%;
-max-width: 40%;
 }
 
 textarea {
+
   background-color: #bffba4ad;
 }
 
